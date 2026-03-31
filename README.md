@@ -1,9 +1,3 @@
-<!-- AI Generated Banner -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=WalZetass-kar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 # 🤖 WalZetass-kar | AI Developer Profile
 
 <p align="center">
@@ -52,18 +46,6 @@ Status      : Im Back Baby 🚀
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=WalZetass-kar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalZetass-kar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# ⏱ Coding Activity (Auto Tracker)
-
-<p align="center">
-
-<!-- Wakatime coding stats -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalZetass-kar&theme=tokyonight"/>
 
 </p>
 
@@ -130,12 +112,6 @@ Status      : Im Back Baby 🚀
 
 <p align="center">
 
-⚡ *Code • Learn • Build • Repeat*
+⚡ *"Code • Learn • Build • Repeat"*
 
-</p>
-
-<!-- footer banner -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00F7FF&height=120&section=footer"/>
 </p>
