@@ -1,7 +1,7 @@
 # 🤖 WalZetass-kar | AI Developer Profile
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer+Profile;Informatics+Student;Cybersecurity+Enthusiast;Building+Cool+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=WalZetass-kar+%7C+Ghost+Zetass-99;AI+Developer+Profile;Informatics+Student;Cybersecurity+Enthusiast;Building+Cool+Projects+🚀;Let's+Code+The+Future+💻" />
 </p>
 
 ---
@@ -10,6 +10,7 @@
 
 ```txt
 Name        : WalZetass-kar
+Team        : Ghost Zetass-99 👻
 Role        : Informatics Student
 Focus       : Web Development | Cybersecurity
 Learning    : JavaScript, Java, AI Tools
@@ -71,11 +72,11 @@ Status      : Im Back Baby 🚀
 
 ---
 
-# 🐍 Contribution Snake
+# � Streak Stats
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WalZetass-kar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
