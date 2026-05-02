@@ -65,6 +65,19 @@ AI/Prompt Eng   : ███████░░░ 70% (Active User)
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+<img src="https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Kiro_AI-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="Kiro AI"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge&logo=stability&logoColor=white" alt="Stable Diffusion"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+
+</p>
+
+<p align="center">
+
 | Tool | Usage |
 |------|-------|
 | ChatGPT | Prompt crafting & automation |
