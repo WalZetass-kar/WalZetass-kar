@@ -93,10 +93,8 @@ AI/Prompt Eng   : ███████░░░ 70% (Active User)
 
 ---
 
-# 🔐 Cybersecurity
-
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB6dGRxYzN6Ym5vZnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRq/077i6AULCXc0FKTj9s/giphy.gif" width="600" alt="Cybersecurity"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding"/>
 </p>
 
 <p align="center">
