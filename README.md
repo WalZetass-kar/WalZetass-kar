@@ -93,19 +93,15 @@ AI/Prompt Eng   : ███████░░░ 70% (Active User)
 
 ---
 
-# 🏅 Achievements & Experience
+# 🔐 Cybersecurity
 
-### 🎓 Certifications
-- 📜 *Coming soon...* — Currently working on certifications
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB6dGRxYzN6Ym5vZnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRqYnRq/077i6AULCXc0FKTj9s/giphy.gif" width="600" alt="Cybersecurity"/>
+</p>
 
-### 🏆 Competitions & CTF
-- 🚀 *Exploring CTF challenges* — Building skills in cybersecurity
-- 💻 *Active in coding communities* — Ghost Zetass-99 team member
-
-### 🤝 Contributions
-- 📦 Open source contributions — Starting journey
-- 🎯 Campus projects — Management systems & web applications
-- 🌐 Community projects — LCC LP3I Pekanbaru
+<p align="center">
+<i>"Exploring the world of cybersecurity, one challenge at a time 🛡️"</i>
+</p>
 
 ---
 
@@ -180,16 +176,6 @@ AI/Prompt Eng   : ███████░░░ 70% (Active User)
 
 * **[Mini-Bank-LP3I](https://github.com/WalZetass-kar/Mini-Bank-LP3I)** — Console-based mini banking application with transaction features (Java)
 * **[AplikasiBiodataSederhana](https://github.com/WalZetass-kar/AplikasiBiodataSederhana)** — Desktop biodata management application with GUI (Java)
-
----
-
-# 🎯 Current Goals
-
-- [ ] Master JavaScript & Node.js
-- [ ] Deep dive into Cybersecurity (CTF challenges)
-- [ ] Build a full-stack web app
-- [ ] Level up Prompt Engineering skills
-- [ ] Contribute to open source
 
 ---
 
