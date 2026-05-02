@@ -8,6 +8,8 @@
 
 ## 🧠 About Me
 
+> Informatics student passionate about building web applications and exploring cybersecurity. I leverage AI tools and prompt engineering to accelerate development and solve complex problems. Always learning, always building.
+
 ```txt
 Name        : WalZetass-kar
 Team        : Ghost Zetass-99 👻
@@ -16,7 +18,15 @@ Focus       : Web Development | Cybersecurity | AI
 Learning    : JavaScript, Java, AI Tools, Prompt Engineering
 Mission     : Build useful technology and keep learning
 Status      : Im Back Baby 🚀
+Location    : Pekanbaru, Indonesia 🇮🇩
+Timezone    : GMT+7 (WIB)
 ```
+
+### 💼 Open For
+- 🤝 Collaboration on web projects
+- 💡 Open source contributions
+- 🎓 Learning opportunities & internships
+- 🔐 CTF team collaborations
 
 ---
 
@@ -27,6 +37,17 @@ Status      : Im Back Baby 🚀
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode&perline=8" />
 
 </p>
+
+### 📊 Skill Levels
+
+```txt
+Frontend        : ████████░░ 80% (HTML, CSS, JavaScript)
+Backend         : ██████░░░░ 60% (Node.js, Java)
+Version Control : ████████░░ 80% (Git, GitHub)
+Python          : █████░░░░░ 50% (Learning)
+Cybersecurity   : ████░░░░░░ 40% (Exploring)
+AI/Prompt Eng   : ███████░░░ 70% (Active User)
+```
 
 ---
 
@@ -56,6 +77,22 @@ Status      : Im Back Baby 🚀
 | Perplexity AI | AI-powered search & research |
 
 </p>
+
+---
+
+# 🏅 Achievements & Experience
+
+### 🎓 Certifications
+- 📜 *Coming soon...* — Currently working on certifications
+
+### 🏆 Competitions & CTF
+- 🚀 *Exploring CTF challenges* — Building skills in cybersecurity
+- 💻 *Active in coding communities* — Ghost Zetass-99 team member
+
+### 🤝 Contributions
+- 📦 Open source contributions — Starting journey
+- 🎯 Campus projects — Management systems & web applications
+- 🌐 Community projects — LCC LP3I Pekanbaru
 
 ---
 
@@ -115,21 +152,21 @@ Status      : Im Back Baby 🚀
 
 ### 🌐 Web Projects
 
-* **[LCC-Web-Design](https://github.com/WalZetass-kar/LCC-Web-Design)** — Web design project (TypeScript)
-* **[webiste-caffe](https://github.com/WalZetass-kar/webiste-caffe)** — Cafe website project (TypeScript)
-* **[My-3-Project](https://github.com/WalZetass-kar/My-3-Project)** — HTML learning project
-* **[My-CV-Portofolio](https://github.com/WalZetass-kar/My-CV-Portofolio)** — Personal portfolio website (JavaScript)
+* **[LCC-Web-Design](https://github.com/WalZetass-kar/LCC-Web-Design)** — Web design project for LCC LP3I Pekanbaru community (TypeScript)
+* **[webiste-caffe](https://github.com/WalZetass-kar/webiste-caffe)** — Modern cafe website with responsive design (TypeScript)
+* **[My-3-Project](https://github.com/WalZetass-kar/My-3-Project)** — HTML/CSS learning project exploring web fundamentals
+* **[My-CV-Portofolio](https://github.com/WalZetass-kar/My-CV-Portofolio)** — Personal portfolio website showcasing projects and skills (JavaScript)
 
 ### 🏫 School / Campus Projects
 
-* **[Project_Dokumentasi_Sekolah](https://github.com/WalZetass-kar/Project_Dokumentasi_Sekolah)** — School documentation project (JavaScript)
-* **[Management-KTM-LP3I-PKU](https://github.com/WalZetass-kar/Management-KTM-LP3I-PKU)** — KTM management system LP3I Pekanbaru (TypeScript)
-* **[absen-lcc-lp3ipekanbaru-2026](https://github.com/WalZetass-kar/absen-lcc-lp3ipekanbaru-2026)** — Attendance system LCC LP3I Pekanbaru (TypeScript)
+* **[Project_Dokumentasi_Sekolah](https://github.com/WalZetass-kar/Project_Dokumentasi_Sekolah)** — School documentation management system (JavaScript)
+* **[Management-KTM-LP3I-PKU](https://github.com/WalZetass-kar/Management-KTM-LP3I-PKU)** — Student ID card management system for LP3I Pekanbaru (TypeScript)
+* **[absen-lcc-lp3ipekanbaru-2026](https://github.com/WalZetass-kar/absen-lcc-lp3ipekanbaru-2026)** — Digital attendance system for LCC LP3I Pekanbaru (TypeScript)
 
 ### 💻 Java Projects
 
-* **[Mini-Bank-LP3I](https://github.com/WalZetass-kar/Mini-Bank-LP3I)** — Mini banking application (Java)
-* **[AplikasiBiodataSederhana](https://github.com/WalZetass-kar/AplikasiBiodataSederhana)** — Desktop biodata management app (Java)
+* **[Mini-Bank-LP3I](https://github.com/WalZetass-kar/Mini-Bank-LP3I)** — Console-based mini banking application with transaction features (Java)
+* **[AplikasiBiodataSederhana](https://github.com/WalZetass-kar/AplikasiBiodataSederhana)** — Desktop biodata management application with GUI (Java)
 
 ---
 
@@ -140,6 +177,19 @@ Status      : Im Back Baby 🚀
 - [ ] Build a full-stack web app
 - [ ] Level up Prompt Engineering skills
 - [ ] Contribute to open source
+
+---
+
+# 🎨 Fun Facts
+
+```txt
+💻 Coding Setup    : Dark theme always, lo-fi beats on repeat
+🎮 When Not Coding : Gaming, exploring new AI tools, CTF practice
+☕ Fuel            : Coffee & energy drinks
+🌙 Peak Hours      : Night owl — best code after midnight
+🎯 2026 Vibe       : "Ship fast, learn faster"
+💡 Philosophy      : AI is a tool, not a replacement — use it wisely
+```
 
 ---
 
