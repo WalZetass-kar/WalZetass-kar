@@ -1,4 +1,4 @@
-# 🤖 WalZetass-kar | AI Developer Profile
+# 🤖 WalZetass-kar | Prompt Engineering Profile
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=WalZetass-kar+%7C+Ghost+Zetass-99;AI+Developer+Profile;Informatics+Student;Cybersecurity+Enthusiast;Prompt+Engineer+🧠;Building+Cool+Projects+🚀;Let's+Code+The+Future+💻" />
