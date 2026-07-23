@@ -1,203 +1,145 @@
-# 🤖 WalZetass-kar | Prompt Engineering Profile
+<!-- Header section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=WalZetass-kar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner"/>
+</div>
+
+<h1 align="center">🤖 Ghost Zetass-99 | AI & Informatics</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=WalZetass-kar+%7C+Ghost+Zetass-99;AI+Developer+Profile;Informatics+Student;Cybersecurity+Enthusiast;Prompt+Engineer+🧠;Building+Cool+Projects+🚀;Let's+Code+The+Future+💻" />
-</p>
-
----
-
-## 🧠 About Me
-
-> Informatics student passionate about building web applications and exploring cybersecurity. I leverage AI tools and prompt engineering to accelerate development and solve complex problems. Always learning, always building.
-
-```txt
-Name        : WalZetass-kar
-Team        : Ghost Zetass-99 👻
-Role        : Informatics Student & Prompt Engineer
-Focus       : Web Development | Cybersecurity | AI
-Learning    : JavaScript, Java, AI Tools, Prompt Engineering
-Mission     : Build useful technology and keep learning
-Status      : Im Back Baby 🚀
-Location    : Pekanbaru, Indonesia 🇮🇩
-Timezone    : GMT+7 (WIB)
-```
-
-### 💼 Open For
-- 🤝 Collaboration on web projects
-- 💡 Open source contributions
-- 🎓 Learning opportunities & internships
-- 🔐 CTF team collaborations
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode&perline=8" />
-
-</p>
-
-### 📊 Skill Levels
-
-```txt
-Frontend        : ████████░░ 80% (HTML, CSS, JavaScript)
-Backend         : ██████░░░░ 60% (Node.js, Java)
-Version Control : ████████░░ 80% (Git, GitHub)
-Python          : █████░░░░░ 50% (Learning)
-Cybersecurity   : ████░░░░░░ 40% (Exploring)
-AI/Prompt Eng   : ███████░░░ 70% (Active User)
-```
-
----
-
-# 🧩 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,nodejs,figma,discord,postman&perline=6"/>
-
-</p>
-
----
-
-# 🤖 AI & Prompt Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-<img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
-<img src="https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Kiro_AI-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="Kiro AI"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge&logo=stability&logoColor=white" alt="Stable Diffusion"/>
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Informatics+Student;Cybersecurity+Enthusiast;Prompt+Engineer+🧠;Building+Cool+Projects+🚀;Let's+Code+The+Future+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-| Tool | Usage |
-|------|-------|
-| ChatGPT | Prompt crafting & automation |
-| Claude (Anthropic) | Advanced reasoning & writing |
-| DeepSeek | Code generation & analysis |
-| Emergent Mind | Research & idea exploration |
-| GitHub Copilot | AI-assisted coding |
-| Kiro AI | Dev workflow & code generation |
-| Stable Diffusion | AI image generation |
-| Perplexity AI | AI-powered search & research |
-
+  <a href="mailto:mihwalmaulana09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Pekanbaru,%20Indonesia-00F7FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
 </p>
 
----
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am an <b>Informatics student</b> from Pekanbaru, Indonesia 🇮🇩, passionate about building web applications and exploring cybersecurity. I heavily leverage AI tools and prompt engineering to accelerate development and solve complex problems.
+      </p>
+      <ul>
+        <li>🚀 <b>Mission:</b> Build useful technology and keep learning</li>
+        <li>🎯 <b>Focus:</b> Web Development | Cybersecurity | AI</li>
+        <li>💼 <b>Open For:</b> Collaborations, Open Source, Internships, CTFs</li>
+        <li>💡 <b>Philosophy:</b> <i>"AI is a tool, not a replacement — use it wisely."</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnkMIFPEfI/giphy.gif" width="250" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### ⚡ Tech Stack & Tools
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=10" alt="Languages & Frameworks" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,figma,discord,postman&perline=10" alt="Tools & OS" />
+</p>
+
+<br>
+
+### 🧠 AI & Prompt Engineering Arsenal
+
+<p align="center">
+  As a Prompt Engineer, I integrate these powerful tools into my daily workflow to push the boundaries of productivity:
 </p>
 
 <p align="center">
-<i>"Exploring the world of cybersecurity, one challenge at a time 🛡️"</i>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+  <img src="https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Kiro_AI-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="Kiro AI"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge&logo=stability&logoColor=white" alt="Stable Diffusion"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
----
+<br>
 
-# 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WalZetass-kar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalZetass-kar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://github-readme-stats.vercel.app/api?username=WalZetass-kar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalZetass-kar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Langs"/>
+  </a>
 </p>
-
----
-
-# 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WalZetass-kar&theme=matrix&no-frame=true&margin-w=10"/>
-
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalZetass-kar&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+  </a>
 </p>
-
----
-
-# 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WalZetass-kar&theme=tokyo-night&hide_border=true"/>
-
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalZetass-kar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
 </p>
-
----
-
-# 🔥 Streak Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WalZetass-kar&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/WalZetass-kar">
+    <img src="https://github-profile-trophy.vercel.app/?username=WalZetass-kar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy"/>
+  </a>
 </p>
 
----
+<br>
 
-# 👀 Visitor Counter
+### 📂 Featured Projects
 
-<p align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 Web Development</h4>
+      <ul>
+        <li><a href="https://github.com/WalZetass-kar/LCC-Web-Design"><b>LCC-Web-Design</b></a> - Community Web Design (TS)</li>
+        <li><a href="https://github.com/WalZetass-kar/webiste-caffe"><b>website-caffe</b></a> - Modern Cafe UI (TS)</li>
+        <li><a href="https://github.com/WalZetass-kar/My-CV-Portofolio"><b>My-CV-Portofolio</b></a> - Personal Portfolio (JS)</li>
+        <li><a href="https://github.com/WalZetass-kar/My-3-Project"><b>My-3-Project</b></a> - HTML/CSS Learning Project</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🏫 System Management</h4>
+      <ul>
+        <li><a href="https://github.com/WalZetass-kar/Project_Dokumentasi_Sekolah"><b>Project_Dokumentasi_Sekolah</b></a> - School Docs (JS)</li>
+        <li><a href="https://github.com/WalZetass-kar/Management-KTM-LP3I-PKU"><b>Management-KTM-LP3I-PKU</b></a> - Student ID (TS)</li>
+        <li><a href="https://github.com/WalZetass-kar/absen-lcc-lp3ipekanbaru-2026"><b>absen-lcc-lp3ipekanbaru-2026</b></a> - Attendance Sys (TS)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4 align="center">☕ Java Applications</h4>
+      <a href="https://github.com/WalZetass-kar/Mini-Bank-LP3I"><b>Mini-Bank-LP3I</b></a> (Console App) | <a href="https://github.com/WalZetass-kar/AplikasiBiodataSederhana"><b>AplikasiBiodataSederhana</b></a> (GUI)
+    </td>
+  </tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=WalZetass-kar&label=Profile%20Views&color=0e75b6&style=flat"/>
+<br>
 
-</p>
-
----
-
-# 📂 Featured Projects
-
-### 🌐 Web Projects
-
-* **[LCC-Web-Design](https://github.com/WalZetass-kar/LCC-Web-Design)** — Web design project for LCC LP3I Pekanbaru community (TypeScript)
-* **[webiste-caffe](https://github.com/WalZetass-kar/webiste-caffe)** — Modern cafe website with responsive design (TypeScript)
-* **[My-3-Project](https://github.com/WalZetass-kar/My-3-Project)** — HTML/CSS learning project exploring web fundamentals
-* **[My-CV-Portofolio](https://github.com/WalZetass-kar/My-CV-Portofolio)** — Personal portfolio website showcasing projects and skills (JavaScript)
-
-### 🏫 School / Campus Projects
-
-* **[Project_Dokumentasi_Sekolah](https://github.com/WalZetass-kar/Project_Dokumentasi_Sekolah)** — School documentation management system (JavaScript)
-* **[Management-KTM-LP3I-PKU](https://github.com/WalZetass-kar/Management-KTM-LP3I-PKU)** — Student ID card management system for LP3I Pekanbaru (TypeScript)
-* **[absen-lcc-lp3ipekanbaru-2026](https://github.com/WalZetass-kar/absen-lcc-lp3ipekanbaru-2026)** — Digital attendance system for LCC LP3I Pekanbaru (TypeScript)
-
-### 💻 Java Projects
-
-* **[Mini-Bank-LP3I](https://github.com/WalZetass-kar/Mini-Bank-LP3I)** — Console-based mini banking application with transaction features (Java)
-* **[AplikasiBiodataSederhana](https://github.com/WalZetass-kar/AplikasiBiodataSederhana)** — Desktop biodata management application with GUI (Java)
-
----
-
-# 🎨 Fun Facts
-
-```txt
-💻 Coding Setup    : Dark theme always, lo-fi beats on repeat
-🎮 When Not Coding : Gaming, exploring new AI tools, CTF practice
-☕ Fuel            : Coffee & energy drinks
-🌙 Peak Hours      : Night owl — best code after midnight
-🎯 2026 Vibe       : "Ship fast, learn faster"
-💡 Philosophy      : AI is a tool, not a replacement — use it wisely
-```
-
----
-
-# 📫 Contact
-
-📧 Email : **[mihwalmaulana09@gmail.com](mailto:mihwalmaulana09@gmail.com)**
-
----
-
-<p align="center">
-
-⚡ *"Code • Learn • Build • Repeat"*
-
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WalZetass-kar&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+  <p><i>"Exploring the world of cybersecurity, one challenge at a time 🛡️"</i></p>
+  <p><b>Coding Setup:</b> Dark theme always, lo-fi beats on repeat 🎧</p>
+</div>
