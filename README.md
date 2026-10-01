@@ -8,29 +8,30 @@
   <br><br>
 
   <!-- Interactive Quick Launch Icons -->
-  <a href="https://github.com/WalZetass-kar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub Profile" />
+  <a href="https://github.com/WalZetass-kar" target="_blank" title="GitHub Profile">
+    <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:mihwalmaulana09@gmail.com?subject=Collaboration%20Inquiry%20-%20WalZetass-Kar">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Send Email" />
+  <a href="mailto:mihwalmaulana09@gmail.com?subject=Collaboration%20Inquiry%20-%20WalZetass-Kar" title="Send Direct Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Send Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/WalZetass-kar?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-21%20Projects-000000?style=for-the-badge&logo=git&logoColor=00F7FF" height="42" alt="Repositories" />
+  <a href="https://github.com/WalZetass-kar?tab=repositories" target="_blank" title="View Repositories">
+    <img src="https://img.shields.io/badge/Repositories-21%20Projects-000000?style=for-the-badge&logo=git&logoColor=00F7FF" height="38" alt="Repositories" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/WalZetass-kar?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/WalZetass-kar?label=Followers&style=for-the-badge&logo=github&color=000000&logoColor=00F7FF&labelColor=161B22" height="42" alt="Followers" />
+  <a href="https://github.com/WalZetass-kar?tab=followers" target="_blank" title="View Followers">
+    <img src="https://img.shields.io/github/followers/WalZetass-kar?label=Followers&style=for-the-badge&logo=github&color=000000&logoColor=00F7FF&labelColor=161B22" height="38" alt="Followers" />
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Location-Pekanbaru%2C%20Indonesia%20🇮🇩-0D1117?style=flat-square&logo=google-maps&logoColor=00F7FF" alt="Location"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-0D1117?style=flat-square&logo=codeforces&logoColor=00F7FF" alt="Status"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Response%20Time-%3C%2024h-0D1117?style=flat-square&logo=clock&logoColor=00F7FF" alt="Response Time"/>
+  <!-- Location & Status Presence Bar -->
+  <p align="center">
+    <code>📍 Pekanbaru, Indonesia 🇮🇩</code> &nbsp;•&nbsp; 
+    <code>🟢 Open for Collaboration</code> &nbsp;•&nbsp; 
+    <code>⚡ Full-Stack &amp; AI Engineering</code>
+  </p>
 
 </div>
 
@@ -38,7 +39,17 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" align="right" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" align="right" alt="Coding GIF"/>
+
+```yaml
+profile:
+  user: "WalZetass-Kar"
+  alias: "Ghost Zetass-99"
+  location: "Pekanbaru, Riau, Indonesia 🇮🇩"
+  status: "🟢 Open for Collaboration & Engineering Projects"
+  focus: "Full-Stack • GenAI Engineering • Desktop POS • Security"
+  quote: "Kesalahan kecil bagimu, pintu masuk bagiku."
+```
 
 I am an **Informatics Student & Software Engineer** based in Pekanbaru, Indonesia 🇮🇩 with a deep drive for building high-performance cross-platform software, enterprise systems, and intelligent AI-powered applications. I bridge robust engineering with modern AI acceleration and security-first principles.
 
