@@ -7,10 +7,31 @@
 
   <br><br>
 
-  <a href="mailto:mihwalmaulana09@gmail.com"><img src="https://img.shields.io/badge/Email-mihwalmaulana09%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/></a>
-  <a href="https://github.com/WalZetass-kar"><img src="https://img.shields.io/badge/GitHub-WalZetass--kar-000000?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Pekanbaru%2C%20Indonesia%20🇮🇩-000000?style=for-the-badge&logo=google-maps&logoColor=00F7FF" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-000000?style=for-the-badge&logo=codeforces&logoColor=00F7FF" alt="Status"/>
+  <!-- Interactive Quick Launch Icons -->
+  <a href="https://github.com/WalZetass-kar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mihwalmaulana09@gmail.com?subject=Collaboration%20Inquiry%20-%20WalZetass-Kar">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Send Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/WalZetass-kar?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-21%20Projects-000000?style=for-the-badge&logo=git&logoColor=00F7FF" height="42" alt="Repositories" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/WalZetass-kar?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/WalZetass-kar?label=Followers&style=for-the-badge&logo=github&color=000000&logoColor=00F7FF&labelColor=161B22" height="42" alt="Followers" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Location-Pekanbaru%2C%20Indonesia%20🇮🇩-0D1117?style=flat-square&logo=google-maps&logoColor=00F7FF" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-0D1117?style=flat-square&logo=codeforces&logoColor=00F7FF" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Response%20Time-%3C%2024h-0D1117?style=flat-square&logo=clock&logoColor=00F7FF" alt="Response Time"/>
+
 </div>
 
 ---
@@ -119,6 +140,20 @@ I am an **Informatics Student & Software Engineer** based in Pekanbaru, Indonesi
 | 🏦 [**Mini-Bank-LP3I**](https://github.com/WalZetass-kar/Mini-Bank-LP3I) | Banking transaction system with PIN security & account ledger | `Java` `SQLite` `OOP Architecture` |
 | 🎓 [**SISTEM-INFORMASI-AKADEMIK-BERBASIS-JAVA**](https://github.com/WalZetass-kar/SISTEM-INFORMASI-AKADEMIK-BERBASIS-JAVA) | Java-based Academic Information System (*SIAKAD*) | `Java` `Maven` `Database GUI` |
 | 📝 [**AplikasiBiodataSederhana**](https://github.com/WalZetass-kar/AplikasiBiodataSederhana) | Student biodata registration desktop application with database storage | `Java Swing GUI` `MySQL` |
+
+---
+
+### 📬 Connect & Direct Inquiries
+
+<div align="center">
+
+| Channel | Destination / Handle | Action |
+| :--- | :--- | :--- |
+| 📧 **Direct Email** | `mihwalmaulana09@gmail.com` | <a href="mailto:mihwalmaulana09@gmail.com?subject=Hello%20WalZetass-Kar%20-%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Send Email" /></a> |
+| 🐙 **GitHub Profile** | `@WalZetass-kar` | <a href="https://github.com/WalZetass-kar" target="_blank"><img src="https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF" height="28" alt="Visit Profile" /></a> |
+| 📂 **Project Repos** | `21 Public Repositories` | <a href="https://github.com/WalZetass-kar?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20Code-00F7FF?style=for-the-badge&logo=git&logoColor=black" height="28" alt="Explore Repos" /></a> |
+
+</div>
 
 ---
 
